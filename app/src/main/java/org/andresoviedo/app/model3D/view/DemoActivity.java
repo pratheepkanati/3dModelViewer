@@ -1,4 +1,4 @@
-/*
+package org.andresoviedo.app.model3D.view;/*
 package org.andresoviedo.app.model3D.view;
 
 import android.app.Activity;

@@ -1,29 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Android\\Downloads\\android-3D-model-viewer-master\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Android\\Documents\\GitHub\\3dModelViewer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Android\\Downloads\\android-3D-model-viewer-master\\android-3D-model-viewer-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\3dModelViewer\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "14,28,5,47,3,4,33,26,24,32,12,34,35,44,30,31,8,7,10,9,41,43,40,39,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "528,1928,166,3591,59,113,2969,863,803,2886,487,3012,3051,3510,2790,2841,299,245,407,353,3311,3442,3254,3193,3130",
-                        "endLines": "22,28,5,47,3,4,33,26,24,32,12,34,35,44,30,31,8,7,10,9,41,43,40,39,38",
-                        "endColumns": "19,832,52,62,52,51,41,1043,39,81,37,37,49,53,49,43,52,52,54,52,61,66,55,59,61",
-                        "endOffsets": "795,2756,214,3649,107,160,3006,1902,838,2963,520,3045,3096,3559,2835,2880,347,293,457,401,3368,3504,3305,3248,3187"
+                        "startLines": "8,18,29,37,22",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "231,563,1072,1409,728",
+                        "endLines": "15,20,35,37,27",
+                        "endColumns": "12,12,12,36,12",
+                        "endOffsets": "522,720,1401,1441,1064"
                     },
                     "to": {
-                        "startLines": "2,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83,84,85",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,3611,4444,4497,4560,4613,4665,4707,5751,5791,5873,5911,5949,5999,6053,6174,6218,6271,6324,6379,6432,6494,6561,6617,6677",
-                        "endLines": "10,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83,84,85",
-                        "endColumns": "19,832,52,62,52,51,41,1043,39,81,37,37,49,53,49,43,52,52,54,52,61,66,55,59,61",
-                        "endOffsets": "314,4439,4492,4555,4608,4660,4702,5746,5786,5868,5906,5944,5994,6048,6098,6213,6266,6319,6374,6427,6489,6556,6612,6672,6734"
+                        "startLines": "86,94,97,104,105",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "6739,7031,7191,7519,7555",
+                        "endLines": "93,96,103,104,110",
+                        "endColumns": "12,12,12,35,12",
+                        "endOffsets": "7026,7186,7514,7550,7886"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Android\\Downloads\\android-3D-model-viewer-master\\android-3D-model-viewer-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\3dModelViewer\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -40,39 +40,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Android\\Downloads\\android-3D-model-viewer-master\\android-3D-model-viewer-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\3dModelViewer\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "19",
-                        "endColumns": "49",
-                        "endOffsets": "64"
+                        "startLines": "14,28,5,47,3,4,33,26,24,32,12,34,35,44,30,31,8,7,10,9,41,43,40,39,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "528,1928,166,3591,59,113,2969,863,803,2886,487,3012,3051,3510,2790,2841,299,245,407,353,3311,3442,3254,3193,3130",
+                        "endLines": "22,28,5,47,3,4,33,26,24,32,12,34,35,44,30,31,8,7,10,9,41,43,40,39,38",
+                        "endColumns": "19,832,52,62,52,51,41,1043,39,81,37,37,49,53,49,43,52,52,54,52,61,66,55,59,61",
+                        "endOffsets": "795,2756,214,3649,107,160,3006,1902,838,2963,520,3045,3096,3559,2835,2880,347,293,457,401,3368,3504,3305,3248,3187"
                     },
                     "to": {
-                        "startLines": "11",
-                        "startColumns": "4",
-                        "startOffsets": "319",
-                        "endColumns": "49",
-                        "endOffsets": "364"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Android\\Downloads\\android-3D-model-viewer-master\\android-3D-model-viewer-master\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "8,18,29,37,22",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "231,563,1072,1409,728",
-                        "endLines": "15,20,35,37,27",
-                        "endColumns": "12,12,12,36,12",
-                        "endOffsets": "522,720,1401,1441,1064"
-                    },
-                    "to": {
-                        "startLines": "86,94,97,104,105",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "6739,7031,7191,7519,7555",
-                        "endLines": "93,96,103,104,110",
-                        "endColumns": "12,12,12,35,12",
-                        "endOffsets": "7026,7186,7514,7550,7886"
+                        "startLines": "2,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,3611,4444,4497,4560,4613,4665,4707,5751,5791,5873,5911,5949,5999,6053,6174,6218,6271,6324,6379,6432,6494,6561,6617,6677",
+                        "endLines": "10,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,79,80,81,82,83,84,85",
+                        "endColumns": "19,832,52,62,52,51,41,1043,39,81,37,37,49,53,49,43,52,52,54,52,61,66,55,59,61",
+                        "endOffsets": "314,4439,4492,4555,4608,4660,4702,5746,5786,5868,5906,5944,5994,6048,6098,6213,6266,6319,6374,6427,6489,6556,6612,6672,6734"
                     }
                 },
                 {
@@ -92,6 +75,23 @@
                         "endLines": "12,13,14,15,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,75,111,115,116,120,121,122,123",
                         "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "433,496,554,628,1915,1983,2055,2125,2186,2247,2308,2370,2434,2496,2557,2625,2725,2785,2851,2924,2993,3050,3102,3164,3236,3312,3347,3382,3432,3466,3501,3536,3606,6169,8003,8204,8314,8515,8644,8716,8783"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Android\\Documents\\GitHub\\3dModelViewer\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "49",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "319",
+                        "endColumns": "49",
+                        "endOffsets": "364"
                     }
                 }
             ]

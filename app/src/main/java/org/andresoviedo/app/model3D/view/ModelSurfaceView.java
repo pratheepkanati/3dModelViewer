@@ -35,13 +35,7 @@ public class ModelSurfaceView extends GLSurfaceView {
 		setEGLConfigChooser(8, 8, 8, 8, 16, 0);
 		getHolder().setFormat(PixelFormat.RGBA_8888);
 		setRenderer(mRenderer);
-		setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY);
-
-
-		// Render the view only when there is a change in the drawing data
-		// TODO: enable this?
-		// setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY);
-
+//		setRenderMode(GLSurfaceView.RENDERMODE_WHEN_DIRTY);
 		touchHandler = new TouchController(this, mRenderer);
 	}
 
